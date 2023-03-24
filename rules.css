@@ -1,0 +1,15 @@
+.container {width: auto;
+            margin:0 auto;; 
+            }  
+
+#left {
+    float:left; 
+    width: 600px; 
+    height: 720px;
+    background: red;}
+#right{
+    float:right; 
+    width: 720px; 
+    height: 720px;
+    background: blue;
+}
