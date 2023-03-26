@@ -1,0 +1,64 @@
+p{
+    font-size: 12px;
+    padding:0 65px 10px;
+    letter-spacing: 1px;
+    line-height: 1.5;
+}
+
+a {text-decoration:none;}
+
+.header{
+    width: 1280px;
+    margin:0 auto;
+    display: left;
+    padding-left: 20px;
+    font-size: 6px; 
+    font-family: 'Alkatra', cursive;
+   
+}
+
+.container{
+    width: 1280px;
+    height: 1000px;
+    margin:0 auto;
+    display: flex;
+    border:solid black 5px;
+}
+
+nav li{
+    font-size: 10px;
+    display:inline;
+    border-right: solid 1px #fff;
+    padding-left: .5em;
+    padding-right: 1em;
+}
+
+nav{
+    padding: 10px;
+    text-align: center;
+    
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    
+}
+
+nav a:hover{
+    color:rgb(14, 44, 14);
+}
+
+
+.left{
+    width: 630px;
+    height: 1000px;
+    margin-left: 60px;
+    margin-right: -60px;
+    margin-top: 20px;
+}
+
+.right{
+    width: 650px;
+    height: 1000px;
+}
